@@ -1,0 +1,6 @@
+@liftlab.Server_HostAddress = http://localhost:5007
+
+GET {{liftlab.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gngYiWp41/FarWjN5Zf//5HWcRkKdcd8dLWgYsRyUck=",
+  "Source": "liftlab.Server",
+  "BasePath": "_content/liftlab.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\VSC files\\liftlab\\liftlab\\liftlab.client\\liftlab.client.esproj",
+      "Version": 2,
+      "Source": "liftlab.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

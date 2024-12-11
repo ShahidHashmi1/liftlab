@@ -1,0 +1,1 @@
+C:\VSC files\liftlab\liftlab\liftlab.client\obj\Debug\liftlab.client.esproj.CoreCompileInputs.cache
